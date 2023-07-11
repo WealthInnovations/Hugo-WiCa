@@ -1,4 +1,4 @@
-module github.com/hbstack/theme
+module github.com/wealthinnovations/hugo-wica
 
 go 1.19
 
